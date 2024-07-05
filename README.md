@@ -12,12 +12,3 @@ Recommended to use on PC
 - Change Directory to using `cd text-to-speech`
 
 
-## Contribution
-We would appreciate if you decide to improve the repository.
-If so, Thank You in advance.
-
-Read [`CONTRIBUTION`](https://github.com/surajondev/text-to-speech/blob/master/CONTRIBUTION.md) for more details.
-
-## Licence
-This is distributed under MIT Licence. For more details read [`LICENCE`](https://github.com/surajondev/text-to-speech/blob/master/LICENSE)
- hello this is text to speech file
